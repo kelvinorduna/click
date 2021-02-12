@@ -1,0 +1,5 @@
+# kelvin.click
+User-agent: *
+Disallow: /assets/
+
+Sitemap: https://kelvin.click/sitemap.xml
